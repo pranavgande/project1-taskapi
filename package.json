@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavgande/project1-taskapi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pranavgande/project1-taskapi/issues"
+  },
+  "homepage": "https://github.com/pranavgande/project1-taskapi#readme"
 }
